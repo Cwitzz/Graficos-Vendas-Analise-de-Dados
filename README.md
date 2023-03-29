@@ -4,17 +4,17 @@ Este projeto consiste em analisar as vendas de uma loja fictícia utilizando uma
 Funcionalidades
 O script Python desenvolvido para este projeto realiza as seguintes tarefas:
 
-Conexão com o banco de dados MySQL;
-Consulta dos dados de vendas por produto, cliente e região;
-Criação de gráficos de barras e de pizza para as informações obtidas;
-Exportação dos resultados em arquivos de texto.
+Conexão com o banco de dados MySQL;<br>
+Consulta dos dados de vendas por produto, cliente e região;<br>
+Criação de gráficos de barras e de pizza para as informações obtidas;<br>
+Exportação dos resultados em arquivos de texto.<br>
 Tecnologias utilizadas
 As principais tecnologias utilizadas neste projeto foram:
 
-MySQL: para armazenar a base de dados de vendas;
-Python: para realizar as consultas e criar as visualizações gráficas;
-Pandas: biblioteca para manipulação e análise de dados;
-Matplotlib e Seaborn: bibliotecas para criação de gráficos.
+MySQL: para armazenar a base de dados de vendas;<br>
+Python: para realizar as consultas e criar as visualizações gráficas;<br>
+Pandas: biblioteca para manipulação e análise de dados;<br>
+Matplotlib e Seaborn: bibliotecas para criação de gráficos.<br>
 Instalação
 Para executar o script deste projeto, você precisará instalar as seguintes bibliotecas do Python através do gerenciador de pacotes pip:
 
