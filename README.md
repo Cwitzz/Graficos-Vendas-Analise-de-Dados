@@ -29,6 +29,9 @@ Antes de executar o script, certifique-se de que o servidor MySQL esteja rodando
 
 Por fim, execute o arquivo app.py para gerar as visualizações gráficas e exportar os resultados em arquivos de texto.
 
+Você pode ajustar o tamanho dos gráficos e a quantidade de colunas exibidas nos resultados facilmente, alterando os parâmetros no código conforme a sua necessidade.
+O código permite que você execute comandos SQL dentro da IDE no próprio arquivo python, então provavelmente você não encontrará problemas em escalar a aplicação.
+
 Arquivos
 Este projeto contém os seguintes arquivos:
 
