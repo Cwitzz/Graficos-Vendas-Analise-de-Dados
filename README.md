@@ -34,7 +34,7 @@ Este projeto contém os seguintes arquivos:
 
 app.py: script principal para consulta e visualização dos dados de vendas;
 
-banco_vendas.sql: arquivo SQL para criação do banco de dados e inserção de dados de exemplo;/n
+banco_vendas.sql: arquivo SQL para criação do banco de dados e inserção de dados de exemplo;<br>
 vendas_por_produto.png: imagem do gráfico de barras das vendas por produto;
 vendas_por_cliente.png: imagem do gráfico de barras das vendas por cliente;
 vendas_por_regiao.png: imagem do gráfico de pizza das vendas por região;
