@@ -1,0 +1,7 @@
+Vendas por Cliente:
+   id_cliente  total_vendido  receita_total
+0           1            5.0          96.98
+1           2            4.0          58.24
+2           3            5.0          88.00
+3           4            7.0         104.95
+4           5            2.0          31.50

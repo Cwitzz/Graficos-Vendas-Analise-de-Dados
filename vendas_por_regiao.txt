@@ -1,0 +1,4 @@
+Vendas por Região:
+    regiao  total_vendido  receita_total
+0      Sul           14.0         243.22
+1  Sudeste            9.0         136.45

@@ -1,0 +1,5 @@
+Vendas por Produto:
+  nome_produto  total_vendido  receita_total
+0         Maçã            8.0          87.92
+1       Banana            9.0         141.75
+2      Abacate            6.0         150.00
