@@ -32,15 +32,14 @@ Por fim, execute o arquivo app.py para gerar as visualizações gráficas e expo
 Arquivos
 Este projeto contém os seguintes arquivos:
 
-app.py: script principal para consulta e visualização dos dados de vendas;
-
+app.py: script principal para consulta e visualização dos dados de vendas;<br>
 banco_vendas.sql: arquivo SQL para criação do banco de dados e inserção de dados de exemplo;<br>
-vendas_por_produto.png: imagem do gráfico de barras das vendas por produto;
-vendas_por_cliente.png: imagem do gráfico de barras das vendas por cliente;
-vendas_por_regiao.png: imagem do gráfico de pizza das vendas por região;
-vendas_por_produto.txt: arquivo de texto com a tabela das vendas por produto;
-vendas_por_cliente.txt: arquivo de texto com a tabela das vendas por cliente;
-vendas_por_regiao.txt: arquivo de texto com a tabela das vendas por região;
+vendas_por_produto.png: imagem do gráfico de barras das vendas por produto;<br>
+vendas_por_cliente.png: imagem do gráfico de barras das vendas por cliente;<br>
+vendas_por_regiao.png: imagem do gráfico de pizza das vendas por região;<br>
+vendas_por_produto.txt: arquivo de texto com a tabela das vendas por produto;<br>
+vendas_por_cliente.txt: arquivo de texto com a tabela das vendas por cliente;<br>
+vendas_por_regiao.txt: arquivo de texto com a tabela das vendas por região;<br>
 README.md: este arquivo com a documentação do projeto.
 Autor
 Este projeto foi desenvolvido por Carlos Alberto Witzler Filho. Sinta-se livre para entrar em contato para qualquer sugestão ou dúvida!
