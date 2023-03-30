@@ -31,6 +31,7 @@ Por fim, execute o arquivo app.py para gerar as visualizações gráficas e expo
 
 Você pode ajustar o tamanho dos gráficos e a quantidade de colunas exibidas nos resultados facilmente, alterando os parâmetros no código conforme a sua necessidade.
 O código permite que você execute comandos SQL dentro da IDE no próprio arquivo python, então provavelmente você não encontrará problemas em escalar a aplicação.
+Pegue seu banco de dados, apenas adapte suas tables no DB, depois arrume as querys no app.py.
 
 Arquivos
 Este projeto contém os seguintes arquivos:
