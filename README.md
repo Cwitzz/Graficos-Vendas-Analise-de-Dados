@@ -2,7 +2,7 @@ Projeto de Análise de Vendas
 Este projeto consiste em analisar as vendas de uma loja fictícia utilizando uma base de dados em MySQL. O objetivo é obter insights a partir dos dados e apresentar visualizações gráficas dos resultados.
 
 Funcionalidades
-O script Python desenvolvido para este projeto realiza as seguintes tarefas::
+O script Python desenvolvido para este projeto realiza as seguintes tarefas:
 
 Conexão com o banco de dados MySQL;<br>
 Consulta dos dados de vendas por produto, cliente e região;<br>
